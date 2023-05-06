@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\LabWork№9\Graphics\x64\Debug\Graphics.vcxproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LabWork№9\Graphics\x64\Debug\Graphics.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\LabWork№9\Graphics\x64\Debug\Graphics.TaskOne.resources
+C:\Users\Admin\source\repos\LabWork№9\Graphics\x64\Debug\Graphics.vcxproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LabWork№9\Graphics\x64\Debug\Graphics.exe
+C:\Users\Admin\source\repos\LabWork№9\Graphics\x64\Debug\Graphics.TaskTwo.resources
+C:\Users\Admin\source\repos\LabWork№9\Graphics\x64\Debug\Graphics.TaskThree.resources
+C:\Users\Admin\source\repos\LabWork№9\Graphics\x64\Debug\Graphics.TaskFour.resources
